@@ -1,0 +1,52 @@
+{
+    "Gir": {
+        "description": "The Gir is a famous milk cattle breed of India. Native to the Gir hills and forests of Kathiawar. It is known for its tolerance to stress conditions and resistance to various tropical diseases.",
+        "food_habits": "Grazing on natural pastures, requires balanced diet for high milk yield. Thrives on green fodder like maize, sorghum, and lucerne.",
+        "habitat": "Gujarat, India. Adapted to tropical heat. Can survive effectively in warm climates.",
+        "characteristics": "Distinctive convex forehead, long pendulous ears, and horns that curve back and up. Coat color varies from red to spotted white.",
+        "lifespan": "12-15 years",
+        "weight": "Male: 545 kg, Female: 385 kg",
+        "milk_yield": "1590 - 3182 kg per lactation",
+        "origin": "Kathiawar, Gujarat"
+    },
+    "Sahiwal": {
+        "description": "Sahiwal is considered one of the best milch cattle breeds of India. It has the highest milk yield among Zebu breeds and shows strong tick resistance.",
+        "food_habits": "Green fodder, dry fodder, and concentrates. Requires a high-energy diet during lactation.",
+        "habitat": "Punjab, Rajasthan, and Haryana. Originally from the Montgomery district (now in Pakistan).",
+        "characteristics": "Reddish dun color, massive hump, loose skin, calm temperament; locally called 'Lola'.",
+        "lifespan": "15-20 years",
+        "weight": "Male: 500 kg, Female: 400 kg",
+        "milk_yield": "2270 - 4500 kg per lactation",
+        "origin": "Montgomery District"
+    },
+    "Red Sindhi": {
+        "description": "Red Sindhi is a renowned heat-tolerant dairy cattle breed. It is genetically close to Sahiwal but slightly smaller in build.",
+        "food_habits": "Adaptable to various feeds; prefers grazing but performs well in semi-intensive dairy systems.",
+        "habitat": "Originally from Sindh, now widespread across India and tropical countries.",
+        "characteristics": "Deep red body color with compact frame; males show darker shading on shoulders and hump.",
+        "lifespan": "15-18 years",
+        "weight": "Male: 450 kg, Female: 300+ kg",
+        "milk_yield": "1700 - 3400 kg per lactation",
+        "origin": "Sindh"
+    },
+    "Murrah": {
+        "description": "Murrah is the most important buffalo breed for milk production and is often referred to as the 'Black Gold' of India.",
+        "food_habits": "Requires rich green fodder and protein concentrates. Needs regular access to water for wallowing.",
+        "habitat": "Haryana, Punjab, and Delhi; thrives in river-belt regions and humid climates.",
+        "characteristics": "Jet-black coat, compact body, and tightly curled spiral horns, a defining breed trait.",
+        "lifespan": "12-15 years",
+        "weight": "Male: 550 kg, Female: 450 kg",
+        "milk_yield": "1800 - 2500 kg per lactation (higher under good management)",
+        "origin": "Fatehabad District, Haryana"
+    },
+    "Jaffarabadi": {
+        "description": "Jaffarabadi is one of the heaviest and most powerful buffalo breeds of India, native to the Gir forest region.",
+        "food_habits": "Heavy feeder; requires nutrient-dense fodder and cannot sustain well on poor grazing lands.",
+        "habitat": "Gujarat, especially coastal and forest adjoining regions.",
+        "characteristics": "Very large head, broad face, and wide flat horns that droop outward and curve upward at the tips.",
+        "lifespan": "15-18 years",
+        "weight": "Male: 800+ kg, Female: 600+ kg",
+        "milk_yield": "2150 - 3000 kg per lactation",
+        "origin": "Jaffarabad, Gujarat"
+    }
+}

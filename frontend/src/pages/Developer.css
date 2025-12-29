@@ -1,0 +1,128 @@
+.dev-stack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+    max-width: 600px;
+    margin: 2rem auto;
+}
+
+.dev-card {
+    background: white;
+    padding: 3rem;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    width: 100%;
+    /* Take full width of container */
+    max-width: 500px;
+    /* Cap width for aesthetics */
+}
+
+.dev-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+}
+
+.dev-avatar {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    background: linear-gradient(135deg, #e0f7fa 0%, #bbdefb 100%);
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+    border-radius: 50%;
+    margin: 0 auto 1.5rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.dev-role {
+    color: #3498db;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+}
+
+.dev-bio {
+    color: #7f8c8d;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+    font-size: 0.95rem;
+}
+
+/* Skills Tags */
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.skill-tag {
+    background: #f1f2f6;
+    color: #576574;
+    padding: 0.4rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    transition: background 0.2s;
+}
+
+.skill-tag:hover {
+    background: #dfe4ea;
+    color: #2c3e50;
+}
+
+/* Social Buttons */
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    /* Added for responsiveness */
+}
+
+.social-btn {
+    text-decoration: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+    color: white;
+}
+
+.social-btn.github {
+    background: #333;
+}
+
+.social-btn.linkedin {
+    background: #0077b5;
+}
+
+.social-btn.email {
+    background: #e74c3c;
+}
+
+.social-btn.portfolio {
+    background: #2ecc71;
+}
+
+.social-btn.instagram {
+    background: #e1306c;
+}
+
+.social-btn:hover {
+    filter: brightness(1.1);
+    transform: scale(1.05);
+}
+
+.mentions p {
+    color: #bdc3c7;
+    margin-top: 2rem;
+}

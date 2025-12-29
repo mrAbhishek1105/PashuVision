@@ -1,0 +1,9 @@
+dataset/
+├── cow_gir/
+├── cow_sahiwal/
+├── cow_red_sindhi/
+├── buffalo_murrah/
+├── buffalo_jaffarabadi/
+
+Please place images in their respective folders.
+The training script will automatically split this into Train/Validation/Test.
