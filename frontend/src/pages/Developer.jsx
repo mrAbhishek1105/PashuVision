@@ -56,10 +56,10 @@ const Developer = () => {
                     </div>
 
                     <div className="social-links">
-                        <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-btn github">GitHub</a>
-                        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-btn linkedin">LinkedIn</a>
-                        <a href="mailto:abhishek@example.com" className="social-btn email">Email</a>
-                        <a href="#" className="social-btn portfolio">Portfolio</a>
+                        <a href="https://github.com/mrAbhishek1105" target="_blank" rel="noopener noreferrer" className="social-btn github">GitHub</a>
+                        <a href="https://www.linkedin.com/in/abhishek1105/" target="_blank" rel="noopener noreferrer" className="social-btn linkedin">LinkedIn</a>
+                        <a href="mailto:abhi115200@gmail.com" className="social-btn email">Email</a>
+                        <a href="https://mrabhishek1105.github.io/portfolio/" className="social-btn portfolio">Portfolio</a>
                     </div>
                 </motion.div>
 

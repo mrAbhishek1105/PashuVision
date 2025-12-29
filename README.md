@@ -1,4 +1,4 @@
-# 🐄 Pashu Breed Recognition System
+# 🐄 PashuVision Breed Recognition System
 
 A full-stack AI application to identify Indian cattle and buffalo breeds from images. Uses **Flask** for the backend, **React** for the frontend, and **MobileNetV2** for breed classification.
 
